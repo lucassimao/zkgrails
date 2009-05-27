@@ -3,7 +3,7 @@ import org.zkoss.zk.ui.event.EventListener
 
 class ZkGrailsPlugin {
     // the plugin version
-    def version = "0.7.2"
+    def version = "0.8"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.1 > *"
     // the other plugins this plugin depends on
